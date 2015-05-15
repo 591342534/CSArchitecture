@@ -84,7 +84,7 @@
     <ClCompile Include="BaseFunc.cpp" />
     <ClCompile Include="MessageHandle.cpp" />
     <ClCompile Include="SocketServer.cpp" />
-    <ClCompile Include="心跳包.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

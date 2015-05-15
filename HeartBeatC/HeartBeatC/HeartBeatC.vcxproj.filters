@@ -26,10 +26,10 @@
     <ClCompile Include="SocketClient.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="测试心跳.cpp">
+    <ClCompile Include="BaseFunc.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="BaseFunc.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

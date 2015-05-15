@@ -29,9 +29,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="心跳包.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="SocketServer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -39,6 +36,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="BaseFunc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
